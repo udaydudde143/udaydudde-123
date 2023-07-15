@@ -1,6 +1,11 @@
 {
-  "dependencies": {
-    "async": "^3.2.4",
-    "solclientjs": "^10.14.0"
-  }
+  "name": "nodesample",
+  "version": "1.0.0",
+  "description": "this is a test file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uday",
+  "license": "ISC"
 }
